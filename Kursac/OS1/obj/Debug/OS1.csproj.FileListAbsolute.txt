@@ -1,0 +1,40 @@
+C:\Users\Artemii\source\repos\OS1\OS1\bin\Debug\OS1.exe.config
+C:\Users\Artemii\source\repos\OS1\OS1\bin\Debug\OS1.exe
+C:\Users\Artemii\source\repos\OS1\OS1\bin\Debug\OS1.pdb
+C:\Users\Artemii\source\repos\OS1\OS1\obj\Debug\OS1.csprojResolveAssemblyReference.cache
+C:\Users\Artemii\source\repos\OS1\OS1\obj\Debug\OS1.Form1.resources
+C:\Users\Artemii\source\repos\OS1\OS1\obj\Debug\OS1.Properties.Resources.resources
+C:\Users\Artemii\source\repos\OS1\OS1\obj\Debug\OS1.csproj.GenerateResource.Cache
+C:\Users\Artemii\source\repos\OS1\OS1\obj\Debug\OS1.csproj.CoreCompileInputs.cache
+C:\Users\Artemii\source\repos\OS1\OS1\obj\Debug\OS1.exe
+C:\Users\Artemii\source\repos\OS1\OS1\obj\Debug\OS1.pdb
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\bin\Debug\OS1.exe.config
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\bin\Debug\OS1.exe
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\bin\Debug\OS1.pdb
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\obj\Debug\OS1.csprojResolveAssemblyReference.cache
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\obj\Debug\OS1.Form1.resources
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\obj\Debug\OS1.Properties.Resources.resources
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\obj\Debug\OS1.csproj.GenerateResource.Cache
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\obj\Debug\OS1.csproj.CoreCompileInputs.cache
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\obj\Debug\OS1.exe
+C:\Users\krasm\OneDrive\ВГУ\3 курс\ОС\OS1\OS1\obj\Debug\OS1.pdb
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\bin\Debug\OS1.exe.config
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\bin\Debug\OS1.exe
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\bin\Debug\OS1.pdb
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\obj\Debug\OS1.csprojResolveAssemblyReference.cache
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\obj\Debug\OS1.Form1.resources
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\obj\Debug\OS1.Properties.Resources.resources
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\obj\Debug\OS1.csproj.GenerateResource.Cache
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\obj\Debug\OS1.csproj.CoreCompileInputs.cache
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\obj\Debug\OS1.exe
+C:\Users\krasm\OneDrive\ВГУ\3_курс\ОС\OS1\OS1\obj\Debug\OS1.pdb
+E:\Labs\Kursac\OS1\bin\Debug\OS1.exe.config
+E:\Labs\Kursac\OS1\bin\Debug\OS1.exe
+E:\Labs\Kursac\OS1\bin\Debug\OS1.pdb
+E:\Labs\Kursac\OS1\obj\Debug\OS1.csprojResolveAssemblyReference.cache
+E:\Labs\Kursac\OS1\obj\Debug\OS1.Properties.Resources.resources
+E:\Labs\Kursac\OS1\obj\Debug\OS1.csproj.GenerateResource.Cache
+E:\Labs\Kursac\OS1\obj\Debug\OS1.csproj.CoreCompileInputs.cache
+E:\Labs\Kursac\OS1\obj\Debug\OS1.exe
+E:\Labs\Kursac\OS1\obj\Debug\OS1.pdb
+E:\Labs\Kursac\OS1\obj\Debug\BrodcastAlgorithm.Form1.resources
