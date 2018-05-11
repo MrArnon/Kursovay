@@ -17,12 +17,13 @@ namespace BrodcastAlgorithm
 		public bool Marker { get; set; }
 
 
-		public Reader(List<Buffer> _buffers, String _name)
+		public Reader(List<Buffer> _buffers, String _name,bool Mark=false)
         {
             buffers = _buffers;
             name = _name;
             Doing = true;
             Dyeing = false;
+			Marker = Mark;
         }
 
         public void AddWriter(Buffer _buffer)
@@ -36,7 +37,7 @@ namespace BrodcastAlgorithm
         {
             var buffer = buffers.ElementAt(random.Next(0, buffers.Count));
             buffer.ReadMessage();
-            Thread.Sleep(1000);
+            Thread.Sleep(3000);
 
         }
 
@@ -64,6 +65,7 @@ namespace BrodcastAlgorithm
         public void Die()
         {
             Dyeing = true;
+			Marker = false;
         }
     }
 }

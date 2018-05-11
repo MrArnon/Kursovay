@@ -34,7 +34,7 @@ namespace BrodcastAlgorithm
             bufferSizeSemaphore.WaitOne();
             semaphore.WaitOne();
             buffer.Enqueue(x);
-            OnMessageAdd?.Invoke(this, new MessageArgs(x > -1 ? "Добавлен ( " + x + " ) в " + Name + "   " + string.Join("-", buffer.ToArray()) : Name + " умер"));
+            OnMessageAdd?.Invoke(this, new MessageArgs(x > -1 ? "Добавлен ( " + x + " ) от " + Name + "   " + string.Join("-", buffer.ToArray()) : Name + " завершил операции"));
             semaphore.Release();
             canWriteSemaphore.Release();
         }
@@ -46,7 +46,7 @@ namespace BrodcastAlgorithm
             canWriteSemaphore.WaitOne();
             //if(buffer.Count() == 0) { return; }
             semaphore.WaitOne();
-            OnMessageRemove?.Invoke(this, new MessageArgs("Прочитал ( " + buffer.Dequeue() + " ) из " + Name + "а"));
+            OnMessageRemove?.Invoke(this, new MessageArgs("Обработан ( " + buffer.Dequeue() + " ) из " + Name + "а"));
             semaphore.Release();
             bufferSizeSemaphore.Release();
         }

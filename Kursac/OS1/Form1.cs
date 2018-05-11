@@ -35,7 +35,7 @@ namespace BrodcastAlgorithm
             {
                 Thread.Sleep(rnd.Next(5, 10) * 1000);
                 controller.AddWriter();
-                AddNewMessageToBuffer(tb1, "!Появился новый писатель");
+                AddNewMessageToBuffer(tb1, "Сгенерированы новые потоки");
             }
         }
 

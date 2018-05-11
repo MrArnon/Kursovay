@@ -14,14 +14,15 @@ namespace BrodcastAlgorithm
         public bool Doing;
         private String name;
         private Buffer buffer;
+		public bool Marker { get; set; }
 
-		public Writer(Buffer _buffer, String name)
+		public Writer(Buffer _buffer, String name,bool Mark=false)
         {
             buffer = _buffer;
             this.name = name;
             Dyeing = false;
             Doing = true;
-
+			Marker = Mark;
         }
 
         public void PrintMessage()
@@ -29,7 +30,7 @@ namespace BrodcastAlgorithm
             if (buffer != null)
             {
                 int value = random.Next(0, 106);
-                Thread.Sleep(1000);
+                Thread.Sleep(3000);
                 if (value <= 100)
                     buffer.WriteMessage(value);
                 else
@@ -54,6 +55,7 @@ namespace BrodcastAlgorithm
         public void Die()
         {
             Dyeing = true;
+			Marker = false;
         }
 
         public void Pause()

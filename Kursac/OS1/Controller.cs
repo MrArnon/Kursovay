@@ -26,12 +26,12 @@ namespace BrodcastAlgorithm
         /// </summary>
         public void InitializeController()
         {
-            Buffer bufferW1 = new Buffer("W1 буфер");
+            Buffer bufferW1 = new Buffer("PС1 компьютер");
             buffers.Add(bufferW1);
             bufferW1.OnMessageAdd += form.OnMessageAddToBuffer;
             bufferW1.OnMessageRemove += form.OnMessageRemoveFromBuffer;
             reader = new Reader(buffers, "Reader");
-            Writer writer = new Writer(bufferW1, "Writer1");
+            Writer writer = new Writer(bufferW1, "Writer1",true);
             writers = new List<Writer> { writer };
             streams = new List<Thread> { new Thread(reader.Work), new Thread(writer.Work) };
             foreach (var t in streams) t.Start();
@@ -41,7 +41,7 @@ namespace BrodcastAlgorithm
         /// </summary>
         public void AddWriter()
         {
-            Buffer buf = new Buffer("W" + (writers.Count + 1) + " буфер");
+            Buffer buf = new Buffer("PC" + (writers.Count + 1) + " компьютер");
             buffers.Add(buf);
             buf.OnMessageAdd += form.OnMessageAddToBuffer;
             buf.OnMessageRemove += form.OnMessageRemoveFromBuffer;
