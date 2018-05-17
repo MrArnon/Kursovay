@@ -11,13 +11,13 @@ namespace BrodcastAlgorithm
 
     class Controller
     {
-        Form1 form;
+        AppForm form;
         Reader reader;
         List<Writer> writers;
         List<Thread> streams;
         List<Buffer> buffers = new List<Buffer>();
 
-        public Controller(Form1 _view)
+        public Controller(AppForm _view)
         {
             form = _view;
         }

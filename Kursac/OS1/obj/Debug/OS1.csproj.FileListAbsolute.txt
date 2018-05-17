@@ -42,9 +42,9 @@ E:\Поляков Максим Сергеевич\Kursac\OS1\bin\Debug\OS1.exe.c
 E:\Поляков Максим Сергеевич\Kursac\OS1\bin\Debug\OS1.exe
 E:\Поляков Максим Сергеевич\Kursac\OS1\bin\Debug\OS1.pdb
 E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\OS1.csprojResolveAssemblyReference.cache
-E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\BrodcastAlgorithm.Form1.resources
 E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\OS1.Properties.Resources.resources
 E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\OS1.csproj.GenerateResource.Cache
 E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\OS1.csproj.CoreCompileInputs.cache
 E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\OS1.exe
 E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\OS1.pdb
+E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\BrodcastAlgorithm.AppForm.resources
