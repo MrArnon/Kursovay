@@ -44,7 +44,6 @@ namespace BrodcastAlgorithm
         public void ReadMessage()
         {
             canWriteSemaphore.WaitOne();
-            //if(buffer.Count() == 0) { return; }
             semaphore.WaitOne();
             OnMessageRemove?.Invoke(this, new MessageArgs("Обработан ( " + buffer.Dequeue() + " ) из " + Name + "а"));
             semaphore.Release();

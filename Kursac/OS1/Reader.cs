@@ -31,7 +31,7 @@ namespace BrodcastAlgorithm
             buffers.Add(_buffer);
         }
         /// <summary>
-        /// Чтение случайного буффера
+        /// Чтение случайного буффера добавить работу с маркером
         /// </summary>
         public void ReadMessage()
         {

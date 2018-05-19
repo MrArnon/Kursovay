@@ -1,0 +1,10 @@
+E:\Поляков Максим Сергеевич\Kursac\OS1\bin\Debug\OS1.exe.config
+E:\Поляков Максим Сергеевич\Kursac\OS1\bin\Debug\OS1.exe
+E:\Поляков Максим Сергеевич\Kursac\OS1\bin\Debug\OS1.pdb
+E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\BrodcastAlgorithm.csprojResolveAssemblyReference.cache
+E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\BrodcastAlgorithm.AppForm.resources
+E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\OS1.Properties.Resources.resources
+E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\BrodcastAlgorithm.csproj.GenerateResource.Cache
+E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\BrodcastAlgorithm.csproj.CoreCompileInputs.cache
+E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\OS1.exe
+E:\Поляков Максим Сергеевич\Kursac\OS1\obj\Debug\OS1.pdb

@@ -87,14 +87,13 @@
 			// 
 			// tb2
 			// 
+			this.tb2.BackColor = System.Drawing.SystemColors.Control;
 			this.tb2.Location = new System.Drawing.Point(383, 30);
 			this.tb2.Multiline = true;
 			this.tb2.Name = "tb2";
-			this.tb2.ReadOnly = true;
 			this.tb2.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
 			this.tb2.Size = new System.Drawing.Size(324, 280);
 			this.tb2.TabIndex = 4;
-			
 			// 
 			// label1
 			// 
